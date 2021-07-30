@@ -1,30 +1,16 @@
-<p align="center"><img src="https://i.imgur.com/flcMvDC.png"></p>
+PSI Tool
+<p align="center"><img src="./screenshot.png"></p>
 
 ## Usage
-
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript-material-ui
-
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript-material-ui
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript-material-ui
-```
+The app saves your url, platform and times run. It also saves the results.
 
 ### Install Dependencies
 
 ```
-$ cd my-app
 
 # using yarn or npm
 $ yarn (or `npm install`)
 
-# using pnpm
-$ pnpm install --shamefully-hoist
 ```
 
 ### Use it
