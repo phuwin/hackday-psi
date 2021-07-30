@@ -1,0 +1,11 @@
+appId: fi.aller.hackday.psi
+productName: PSI-Tool
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
